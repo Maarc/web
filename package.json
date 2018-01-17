@@ -6,7 +6,13 @@
   "dependencies": {
       "express": "*",
       "mongodb": "*",
-      "ejs": "*"
+      "ejs": "*",
+      "compression": "*",
+      "body-parser": "*",
+      "method-override": "*",
+      "morgan": "*",
+      "response-time": "*",
+      "serve-favicon": "*"
   },
   "engine": {
     "node": "*",
